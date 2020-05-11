@@ -37,7 +37,7 @@ When a user clicks the #show-password checkbox, the #password field should displ
 </form>
 ```
 
-###Solution Notes and resources consulted
+### Solution Notes and resources consulted
 
 ```HTML
 <input type="password">
